@@ -1,4 +1,4 @@
 rebasing
 new line here 
-line 1
-line 2
+LINE1
+LINE2
