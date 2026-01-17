@@ -2,3 +2,5 @@ rebasing
 new line here 
 LINE1
 LINE2
+lines01
+lines02
